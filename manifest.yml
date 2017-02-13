@@ -95,6 +95,12 @@ dependencies:
   md5: 30bff5f194e75c4d8e2933c3d50742a6
   cf_stacks:
   - cflinuxfs2
+- name: dotnet
+  version: 1.0.0-rc4-004771
+  uri: https://go.microsoft.com/fwlink/?linkid=841687
+  md5: 904778474d7303b4655caecccb5c9ef0
+  cf_stacks:
+  - cflinuxfs2
 - name: node
   version: 6.9.5
   uri: https://buildpacks.cloudfoundry.org/dependencies/node/node-6.9.5-linux-x64-a69fa1ad.tgz
